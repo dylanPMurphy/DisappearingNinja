@@ -1,9 +1,12 @@
 #wrapper {
-    background-color: beige;   
+    background-color: gold;   
     width: 1050px;
     padding:5px;
 }
 
+#content{
+    height:375px;
+}
 img{
     padding: 2px;
     border:2px solid black;
