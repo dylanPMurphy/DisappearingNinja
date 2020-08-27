@@ -1,0 +1,18 @@
+#wrapper {
+    background-color: beige;   
+    width: 1050px;
+    padding:5px;
+}
+
+img{
+    padding: 2px;
+    border:2px solid black;
+    margin:0px;
+    width:250px;
+}
+button{
+    width:250px;
+    height:100px;
+    margin-top:20px;
+    margin-left: 375px;
+}
